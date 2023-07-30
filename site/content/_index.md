@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Francis and Welch Research Scienses LLC"
+title: "Welcome to Francis and Welch Research Sciences LLC"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
