@@ -1,5 +1,5 @@
 ---
-title: "Hey Rennee, i hope the music was not inappropriate last night"
+title: "Welcome to Francis and Welch Research Scienses LLC"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
