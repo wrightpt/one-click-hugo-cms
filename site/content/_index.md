@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Francis and Welch Research Sciences LLC"
+title: "Hey Josh, check out this static site I built - it's hosted completely for free on Netlify. No database or backend server needed since it pre-generates all the HTML files during the deployment process. Pretty cool way to have a lightweight site without ongoing hosting costs. "
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
